@@ -35,7 +35,7 @@
 \newcommand{\ExamTitle}{ข้อสอบกลางภาค}           % e.g., Midterm Exam
 \newcommand{\CourseCode}{888121}                % Course ID
 \newcommand{\CourseSection}{001 และ 002}                % Section
-\newcommand{\ExamDate}{ 25 มีนาคม พ.ศ. 2569}     % Date
+\newcommand{\ExamDate}{ 12 มีนาคม พ.ศ. 2569}     % Date
 \newcommand{\ExamTime}{12.00 - 15.00}           % Time
 % =========================================================
 
@@ -50,11 +50,12 @@
 
 % --- LOAD QUESTIONS ---
 % Ensure questions.tex exists
-\input{quizz.tex} 
+\input{quizz.tex}
+\input{categorized_questions.tex}
 
-\copygroup{quizz}{selected}
-\copygroup{final}{selected}
-\copygroup{DLT}{selected}
+\copygroup[55]{quizz}{selected}
+% \copygroup{final}{selected}
+\copygroup[15]{DLT}{selected}
 % \copygroup{lesson14}{selected}
 % \copygroup{lesson15}{selected}
 % \copygroup{lesson17}{selected}
@@ -67,7 +68,7 @@
 \raggedbottom
 
 % Start of AMC exam generation (75 copies)
-\onecopy{5}{
+\onecopy{70}{
 
     % =========================================================
     % 1. EXAM COVER PAGE

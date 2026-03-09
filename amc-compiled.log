@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.2.22)  3 MAR 2026 21:37
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.2.24)  9 MAR 2026 11:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1081,234 +1081,287 @@ ounters
 \DLT@xxiv=\toks377
 \DLT@xxv=\toks378
 )
-\selected@k=\count375
-\AMCselected@j=\count376
-\selected@i=\toks379
-\selected@ii=\toks380
-\selected@iii=\toks381
-\selected@iv=\toks382
-\selected@v=\toks383
-\selected@vi=\toks384
-\selected@vii=\toks385
-\selected@viii=\toks386
-\selected@ix=\toks387
-\selected@x=\toks388
-\selected@xi=\toks389
-\selected@xii=\toks390
-\selected@xiii=\toks391
-\selected@xiv=\toks392
-\selected@xv=\toks393
-\selected@xvi=\toks394
-\selected@xvii=\toks395
-\selected@xviii=\toks396
-\selected@xix=\toks397
-\selected@xx=\toks398
-\selected@xxi=\toks399
-\selected@xxii=\toks400
-\selected@xxiii=\toks401
-\selected@xxiv=\toks402
-\selected@xxv=\toks403
-\selected@xxvi=\toks404
-\selected@xxvii=\toks405
-\selected@xxviii=\toks406
-\selected@xxix=\toks407
-\selected@xxx=\toks408
-\selected@xxxi=\toks409
-\selected@xxxii=\toks410
-\selected@xxxiii=\toks411
-\selected@xxxiv=\toks412
-\selected@xxxv=\toks413
-\selected@xxxvi=\toks414
-\selected@xxxvii=\toks415
-\selected@xxxviii=\toks416
-\selected@xxxix=\toks417
-\selected@xl=\toks418
-\selected@xli=\toks419
-\selected@xlii=\toks420
-\selected@xliii=\toks421
-\selected@xliv=\toks422
-\selected@xlv=\toks423
-\selected@xlvi=\toks424
-\selected@xlvii=\toks425
-\selected@xlviii=\toks426
-\selected@xlix=\toks427
-\selected@l=\toks428
-\selected@li=\toks429
-\selected@lii=\toks430
-\selected@liii=\toks431
-\selected@liv=\toks432
-\selected@lv=\toks433
-\selected@lvi=\toks434
-\selected@lvii=\toks435
-\selected@lviii=\toks436
-\selected@lix=\toks437
-\selected@lx=\toks438
-\selected@lxi=\toks439
-\selected@lxii=\toks440
-\selected@lxiii=\toks441
-\selected@lxiv=\toks442
-\selected@lxv=\toks443
-\selected@lxvi=\toks444
-\selected@lxvii=\toks445
-\selected@lxviii=\toks446
-\selected@lxix=\toks447
-\selected@lxx=\toks448
-\selected@lxxi=\toks449
-\selected@lxxii=\toks450
-\selected@lxxiii=\toks451
-\selected@lxxiv=\toks452
-\selected@lxxv=\toks453
-\selected@lxxvi=\toks454
-\selected@lxxvii=\toks455
-\selected@lxxviii=\toks456
-\selected@lxxix=\toks457
-\selected@lxxx=\toks458
-\selected@lxxxi=\toks459
-\selected@lxxxii=\toks460
-\selected@lxxxiii=\toks461
-\selected@lxxxiv=\toks462
-\selected@lxxxv=\toks463
-\selected@lxxxvi=\toks464
-\selected@lxxxvii=\toks465
-\selected@lxxxviii=\toks466
-\selected@lxxxix=\toks467
-\selected@xc=\toks468
-\selected@xci=\toks469
-\selected@xcii=\toks470
-\selected@xciii=\toks471
-\selected@xciv=\toks472
-\selected@xcv=\toks473
-\selected@xcvi=\toks474
-\selected@xcvii=\toks475
-\selected@xcviii=\toks476
-\selected@xcix=\toks477
-\selected@c=\toks478
-\selected@ci=\toks479
-\selected@cii=\toks480
-\selected@ciii=\toks481
-\selected@civ=\toks482
-\selected@cv=\toks483
-\selected@cvi=\toks484
-\selected@cvii=\toks485
-\selected@cviii=\toks486
-\selected@cix=\toks487
-\selected@cx=\toks488
-\selected@cxi=\toks489
-\selected@cxii=\toks490
-\selected@cxiii=\toks491
-\selected@cxiv=\toks492
-\selected@cxv=\toks493
-\selected@cxvi=\toks494
-\selected@cxvii=\toks495
-\selected@cxviii=\toks496
-\selected@cxix=\toks497
-\selected@cxx=\toks498
-\selected@cxxi=\toks499
-\selected@cxxii=\toks500
-\selected@cxxiii=\toks501
-\selected@cxxiv=\toks502
-\selected@cxxv=\toks503
-\selected@cxxvi=\toks504
-\selected@cxxvii=\toks505
-\selected@cxxviii=\toks506
-\selected@cxxix=\toks507
-\selected@cxxx=\toks508
-\selected@cxxxi=\toks509
-\selected@cxxxii=\toks510
-\selected@cxxxiii=\toks511
-\selected@cxxxiv=\toks512
-\selected@cxxxv=\toks513
-\selected@cxxxvi=\toks514
-\selected@cxxxvii=\toks515
-
-(./amc-compiled.aux)
+(./categorized_questions.tex
+\ai@k=\count375
+\AMCai@j=\count376
+\ai@i=\toks379
+\ai@ii=\toks380
+\ai@iii=\toks381
+\ai@iv=\toks382
+\ai@v=\toks383
+\ai@vi=\toks384
+\ai@vii=\toks385
+\ai@viii=\toks386
+\ai@ix=\toks387
+\ai@x=\toks388
+\ai@xi=\toks389
+\ai@xii=\toks390
+\bigdata@k=\count377
+\AMCbigdata@j=\count378
+\bigdata@i=\toks391
+\bigdata@ii=\toks392
+\bigdata@iii=\toks393
+\bigdata@iv=\toks394
+\bigdata@v=\toks395
+\bigdata@vi=\toks396
+\bigdata@vii=\toks397
+\bigdata@viii=\toks398
+\bigdata@ix=\toks399
+\bigdata@x=\toks400
+\bigdata@xi=\toks401
+\bigdata@xii=\toks402
+\bigdata@xiii=\toks403
+\bigdata@xiv=\toks404
+\bigdata@xv=\toks405
+\bigdata@xvi=\toks406
+\bigdata@xvii=\toks407
+\bigdata@xviii=\toks408
+\bigdata@xix=\toks409
+\cloudcomputing@k=\count379
+\AMCcloudcomputing@j=\count380
+\cloudcomputing@i=\toks410
+\cloudcomputing@ii=\toks411
+\cloudcomputing@iii=\toks412
+\cloudcomputing@iv=\toks413
+\cloudcomputing@v=\toks414
+\cloudcomputing@vi=\toks415
+\cloudcomputing@vii=\toks416
+\cloudcomputing@viii=\toks417
+\cloudcomputing@ix=\toks418
+\cloudcomputing@x=\toks419
+\cloudcomputing@xi=\toks420
+\cloudcomputing@xii=\toks421
+\cloudcomputing@xiii=\toks422
+\cloudcomputing@xiv=\toks423
+\general@k=\count381
+\AMCgeneral@j=\count382
+\general@i=\toks424
+\general@ii=\toks425
+\general@iii=\toks426
+\general@iv=\toks427
+\general@v=\toks428
+\general@vi=\toks429
+\general@vii=\toks430
+\general@viii=\toks431
+\general@ix=\toks432
+\general@x=\toks433
+\general@xi=\toks434
+\general@xii=\toks435
+\general@xiii=\toks436
+\general@xiv=\toks437
+\general@xv=\toks438
+\general@xvi=\toks439
+\general@xvii=\toks440
+\general@xviii=\toks441
+\general@xix=\toks442
+\iot@k=\count383
+\AMCiot@j=\count384
+\iot@i=\toks443
+\iot@ii=\toks444
+\iot@iii=\toks445
+\iot@iv=\toks446
+\iot@v=\toks447
+\iot@vi=\toks448
+\iot@vii=\toks449
+\iot@viii=\toks450
+\iot@ix=\toks451
+\iot@x=\toks452
+\iot@xi=\toks453
+\iot@xii=\toks454
+\metaverse@k=\count385
+\AMCmetaverse@j=\count386
+\metaverse@i=\toks455
+\metaverse@ii=\toks456
+\metaverse@iii=\toks457
+\metaverse@iv=\toks458
+\metaverse@v=\toks459
+\metaverse@vi=\toks460
+\metaverse@vii=\toks461
+\smartcity@k=\count387
+\AMCsmartcity@j=\count388
+\smartcity@i=\toks462
+\smartcity@ii=\toks463
+\smartcity@iii=\toks464
+\smartcity@iv=\toks465
+\smartcity@v=\toks466
+\smartcity@vi=\toks467
+\smartcity@vii=\toks468
+\smartcity@viii=\toks469
+\smartcity@ix=\toks470
+\smartcity@x=\toks471
+\smartcity@xi=\toks472
+\smartcity@xii=\toks473
+\smartcity@xiii=\toks474
+\smartcity@xiv=\toks475
+\smartcity@xv=\toks476
+\smartcity@xvi=\toks477
+\smartcity@xvii=\toks478
+\smartcity@xviii=\toks479
+\smartcity@xix=\toks480
+\smartcity@xx=\toks481
+\smartcity@xxi=\toks482
+)
+\selected@k=\count389
+\AMCselected@j=\count390
+\selected@i=\toks483
+\selected@ii=\toks484
+\selected@iii=\toks485
+\selected@iv=\toks486
+\selected@v=\toks487
+\selected@vi=\toks488
+\selected@vii=\toks489
+\selected@viii=\toks490
+\selected@ix=\toks491
+\selected@x=\toks492
+\selected@xi=\toks493
+\selected@xii=\toks494
+\selected@xiii=\toks495
+\selected@xiv=\toks496
+\selected@xv=\toks497
+\selected@xvi=\toks498
+\selected@xvii=\toks499
+\selected@xviii=\toks500
+\selected@xix=\toks501
+\selected@xx=\toks502
+\selected@xxi=\toks503
+\selected@xxii=\toks504
+\selected@xxiii=\toks505
+\selected@xxiv=\toks506
+\selected@xxv=\toks507
+\selected@xxvi=\toks508
+\selected@xxvii=\toks509
+\selected@xxviii=\toks510
+\selected@xxix=\toks511
+\selected@xxx=\toks512
+\selected@xxxi=\toks513
+\selected@xxxii=\toks514
+\selected@xxxiii=\toks515
+\selected@xxxiv=\toks516
+\selected@xxxv=\toks517
+\selected@xxxvi=\toks518
+\selected@xxxvii=\toks519
+\selected@xxxviii=\toks520
+\selected@xxxix=\toks521
+\selected@xl=\toks522
+\selected@xli=\toks523
+\selected@xlii=\toks524
+\selected@xliii=\toks525
+\selected@xliv=\toks526
+\selected@xlv=\toks527
+\selected@xlvi=\toks528
+\selected@xlvii=\toks529
+\selected@xlviii=\toks530
+\selected@xlix=\toks531
+\selected@l=\toks532
+\selected@li=\toks533
+\selected@lii=\toks534
+\selected@liii=\toks535
+\selected@liv=\toks536
+\selected@lv=\toks537
+\selected@lvi=\toks538
+\selected@lvii=\toks539
+\selected@lviii=\toks540
+\selected@lix=\toks541
+\selected@lx=\toks542
+\selected@lxi=\toks543
+\selected@lxii=\toks544
+\selected@lxiii=\toks545
+\selected@lxiv=\toks546
+\selected@lxv=\toks547
+\selected@lxvi=\toks548
+\selected@lxvii=\toks549
+\selected@lxviii=\toks550
+\selected@lxix=\toks551
+\selected@lxx=\toks552
+ (./amc-compiled.aux)
 \openout1 = `amc-compiled.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
-6.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+7.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 66.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 66.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 66.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 66.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 66.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 66.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 66.
-LaTeX Font Info:    Redeclaring math accent \check on input line 66.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 66.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 66.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 66.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 66.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 66.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 66.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 66.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 66.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 66.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 66.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 66.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 66.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 66.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 66.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 66.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 66.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 66.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 67.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 67.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 67.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 67.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 67.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 67.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 67.
+LaTeX Font Info:    Redeclaring math accent \check on input line 67.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 67.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 67.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 67.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 66.
+(Font)              `operators' in the math version `normal' on input line 67.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/THSarabunNew(0)/m/n on input line 66
+(Font)                  OT1/cmr/m/n --> TU/THSarabunNew(0)/m/n on input line 67
 .
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 66.
+(Font)              `operators' in the math version `bold' on input line 67.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/THSarabunNew(0)/m/n on input line 6
-6.
+7.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/THSarabunNew(0)/m/n --> TU/THSarabunNew(0)/m/n on in
-put line 66.
+put line 67.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/THSarabunNew(0)/m/it on input line 
-66.
+67.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/THSarabunNew(0)/b/n on input line 6
-6.
+7.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 66.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 67.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 66.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 67.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/THSarabunNew(0)/m/n --> TU/THSarabunNew(0)/b/n on in
-put line 66.
+put line 67.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/THSarabunNew(0)/b/it on input line
- 66.
+ 67.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 66.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 67.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 66.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 67.
 \AMC@ovalbox@R=\box118
 \AMC@ovalbox@RF=\box119
 \AMC@ovalbox@=\box120
@@ -1349,23 +1402,23 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-AMC:copies:total=5
+AMC:copies:total=70
 File: logo-ICDI.png Graphic file (type bmp)
 <logo-ICDI.png>
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 15.0pt on input line 232.
+(Font)              scaled to size 15.0pt on input line 233.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 21.59999pt on input line 232.
+(Font)              scaled to size 21.59999pt on input line 233.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 10.5pt on input line 232.
+(Font)              scaled to size 10.5pt on input line 233.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 7.5pt on input line 232.
+(Font)              scaled to size 7.5pt on input line 233.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 232.
+(Font)              <7> on input line 233.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 232.
+(Font)              <5> on input line 233.
 
-Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
 [][] 
  []
 
@@ -1374,64 +1427,48 @@ Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
 ] [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 ทำให้ ระบบ สามารถ วิเคราะห์ ข้อมูล จาก
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 Public Safety and Security (ความ
- []
-
-
-Underfull \hbox (badness 6592) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
  []
 
 
-Underfull \hbox (badness 5203) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 การ วาง งบ ที่ ไม่ จำกัด จาก คลัง กระทรวง
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 
  []
 
 [3
 
-] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
+] [4] [5] [6] [7] [8] [9] [10]
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 25.92pt on input line 232.
+(Font)              scaled to size 25.92pt on input line 233.
+ [11
 
-[19
-
-] [20] 
+] [12] 
 AMC:copies:add=1
 File: logo-ICDI.png Graphic file (type bmp)
 <logo-ICDI.png>
 
-Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
 [][] 
  []
 
@@ -1440,61 +1477,45 @@ Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
 ] [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 ทำให้ ระบบ สามารถ วิเคราะห์ ข้อมูล จาก
- []
-
-
-Underfull \hbox (badness 5203) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 การ วาง งบ ที่ ไม่ จำกัด จาก คลัง กระทรวง
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 Public Safety and Security (ความ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
  []
 
 
-Underfull \hbox (badness 6592) in paragraph at lines 232--232
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 
  []
 
 [3
 
-] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18
+] [4] [5] [6] [7] [8] [9] [10] [11
 
-]
-[19] [20] 
+] [12] 
 AMC:copies:add=1
 File: logo-ICDI.png Graphic file (type bmp)
 <logo-ICDI.png>
 
-Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
 [][] 
  []
 
@@ -1503,61 +1524,49 @@ Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
 ] [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
  []
 
 
-Underfull \hbox (badness 5203) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 การ วาง งบ ที่ ไม่ จำกัด จาก คลัง กระทรวง
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 Public Safety and Security (ความ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
  []
 
 
-Underfull \hbox (badness 6592) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 ทำให้ ระบบ สามารถ วิเคราะห์ ข้อมูล จาก
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 
  []
 
 [3
 
-] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18
+] [4] [5] [6] [7] [8]
+Overfull \vbox (6.29424pt too high) has occurred while \output is active []
 
-]
-[19] [20] 
+
+[9] [10
+
+] [11] [12] 
 AMC:copies:add=1
 File: logo-ICDI.png Graphic file (type bmp)
 <logo-ICDI.png>
 
-Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
 [][] 
  []
 
@@ -1566,61 +1575,45 @@ Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
 ] [2
 
 ]
-Underfull \hbox (badness 6592) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 Public Safety and Security (ความ
- []
-
-
-Underfull \hbox (badness 5203) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 การ วาง งบ ที่ ไม่ จำกัด จาก คลัง กระทรวง
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 ทำให้ ระบบ สามารถ วิเคราะห์ ข้อมูล จาก
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 
  []
 
 [3
 
-] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18
+] [4] [5] [6] [7] [8] [9] [10] [11
 
-]
-[19] [20] 
+] [12] 
 AMC:copies:add=1
 File: logo-ICDI.png Graphic file (type bmp)
 <logo-ICDI.png>
 
-Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
 [][] 
  []
 
@@ -1629,56 +1622,3127 @@ Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
 ] [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
- []
-
-
-Underfull \hbox (badness 5203) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 การ วาง งบ ที่ ไม่ จำกัด จาก คลัง กระทรวง
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 Public Safety and Security (ความ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 ทำให้ ระบบ สามารถ วิเคราะห์ ข้อมูล จาก
- []
-
-
-Underfull \hbox (badness 6592) in paragraph at lines 232--232
-[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 
  []
 
 [3
 
-] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
 
 ]
-[19] [20] 
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8]
+Overfull \vbox (27.27466pt too high) has occurred while \output is active []
+
+
+[9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8]
+Overfull \vbox (47.23962pt too high) has occurred while \output is active []
+
+
+[9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8]
+Overfull \vbox (55.40941pt too high) has occurred while \output is active []
+
+
+[9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10
+
+] [11] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8]
+Overfull \vbox (51.29437pt too high) has occurred while \output is active []
+
+
+[9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8]
+Overfull \vbox (39.56454pt too high) has occurred while \output is active []
+
+
+[9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8]
+Overfull \vbox (40.35947pt too high) has occurred while \output is active []
+
+
+[9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10
+
+] [11] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8]
+Overfull \vbox (39.60956pt too high) has occurred while \output is active []
+
+
+[9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10
+
+] [11] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8]
+Overfull \vbox (26.9945pt too high) has occurred while \output is active []
+
+
+[9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10
+
+] [11] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 233--233
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 6592) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 จะ ไม่ สามารถ เข้า ถึง ควบคุม หรือ โอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ซอฟต์แวร์ สำหรับ จำลอง การ ทำงาน ของ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\TU/THSarabunNew(0)/m/n/10 ร่าง กฎหมาย และ นโยบาย กำกับ ดูแล
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
 AMC:copies:add=1
 (./amc-compiled.aux)
  ***********
@@ -1687,12 +4751,12 @@ L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 18537 strings out of 476878
- 413074 string characters out of 5805249
- 2379627 words of memory out of 5000000
- 40155 multiletter control sequences out of 15000+600000
+ 18400 strings out of 476878
+ 410253 string characters out of 5805249
+ 2150627 words of memory out of 5000000
+ 40015 multiletter control sequences out of 15000+600000
  558189 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 87i,23n,93p,417b,992s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,23n,93p,417b,998s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on amc-compiled.pdf (100 pages).
+Output written on amc-compiled.pdf (840 pages).
