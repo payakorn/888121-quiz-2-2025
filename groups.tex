@@ -1,0 +1,234 @@
+\documentclass[a4paper, twoside]{article}
+
+%%% 1. Setup for Unicode and Thai Language %%%
+\usepackage{fontspec}
+\usepackage{xltxtra}
+\usepackage{tikz}
+\usepackage{multicol}
+
+% --- FONT SETUP ---
+% Ensure the folder 'THSarabunNew' exists with .ttf files.
+\setmainfont[
+    Path = ./THSarabunNew/,
+    Extension = .ttf,
+    UprightFont = * ,
+    BoldFont = * Bold,
+    ItalicFont = * Italic,
+    BoldItalicFont = * BoldItalic,
+    Scale = 1.5
+]{THSarabunNew}
+
+% --- THAI SPACING ---
+\XeTeXlinebreaklocale "th"
+\XeTeXlinebreakskip = 0pt plus 1pt
+\linespread{1.0}
+\tolerance=5000
+\emergencystretch=20pt
+
+\usepackage[box,completemulti,separateanswersheet]{automultiplechoice}
+\usepackage{totcount}
+\regtotcounter{AMCquestionaff}
+
+% =========================================================
+%  📝 COURSE CONFIGURATION (EDIT HERE)
+% =========================================================
+\newcommand{\ExamTitle}{ข้อสอบกลางภาค}           % e.g., Midterm Exam
+\newcommand{\CourseCode}{888121}                % Course ID
+\newcommand{\CourseSection}{001 และ 002}                % Section
+\newcommand{\ExamDate}{ 25 มีนาคม พ.ศ. 2569}     % Date
+\newcommand{\ExamTime}{12.00 - 15.00}           % Time
+% =========================================================
+
+% --- AMC FORMATTING ---
+\def\AMCbeginQuestion#1#2{\par\noindent\textbf{#1.}~#2}
+\def\AMCformQuestion#1{\vspace{-0.15cm}\par\noindent\textbf{#1.}}
+\setdefaultgroupmode{withoutreplacement}
+
+% --- AMC BOX STYLE ---
+% \AMCboxStyle{shape=square,size=2.5ex,down=.4ex,rule=.5pt,outsidesep=.1em,color=black}
+\AMCboxStyle{shape=oval,size=2.5ex,down=.4ex,rule=.5pt,outsidesep=.1em,color=black}
+
+% --- LOAD QUESTIONS ---
+% Ensure questions.tex exists
+\input{quizz.tex} 
+
+\copygroup{quizz}{selected}
+\copygroup{final}{selected}
+\copygroup{DLT}{selected}
+% \copygroup{lesson14}{selected}
+% \copygroup{lesson15}{selected}
+% \copygroup{lesson17}{selected}
+% \copygroup{lesson19}{selected}
+% \copygroup{lesson21}{selected}
+% \copygroup{lesson23}{selected}
+% \copygroup{integrative}{selected}
+
+\begin{document}
+\raggedbottom
+
+% Start of AMC exam generation (75 copies)
+\onecopy{5}{
+
+    % =========================================================
+    % 1. EXAM COVER PAGE
+    % =========================================================
+    \shufflegroup{selected}
+    % \shufflegroup{hard}
+
+    \begin{center}
+        % Check image path
+        \includegraphics[width=3.5cm]{logo-ICDI.png}
+    \end{center}
+    
+    \begin{center}
+        \fbox{
+            \begin{minipage}{10cm}
+                \centering
+                \vspace{0.25cm}
+                \textbf{\Large \ExamTitle} % Uses Variable
+                \vspace{0.25cm}
+            \end{minipage}
+        }
+    \end{center}
+
+    \vspace{0.5cm}
+
+    % Course Details Table
+    \noindent
+    \begin{tabular}{@{}ll}
+        \textbf{กระบวนวิชา:} & \CourseCode \textbf{ ตอน } \CourseSection \\
+        \textbf{สอบวันที่:} & \ExamDate \textbf{ เวลา } \ExamTime \\
+    \end{tabular}
+
+    \vspace{0.5cm}
+
+    % Name box (Cover)
+    \fbox{
+        \begin{minipage}{\linewidth}
+            \vspace{0.25cm}
+            \hspace{0.25cm}
+            \noindent
+            ชื่อ \dotfill นามสกุล \dotfill รหัส: \dotfill
+            \vspace{0.25cm}
+        \end{minipage}
+    }
+
+    \vspace{0.5cm}
+    \hrule
+    \vspace{0.3cm}
+
+    \noindent \textbf{คำชี้แจง}
+    \begin{enumerate}
+        \item ข้อสอบมีจำนวนทั้งสิ้น \total{AMCquestionaff} ข้อ
+        % \item ข้อสอบมีจำนวน \TotalPageCount \hspace{1mm} หน้า (รวมใบปะหน้า) รวมทั้งสิ้น \total{AMCquestionaff} ข้อ
+        \item ก่อนเข้าห้องสอบให้กรรมการคุมสอบประกาศให้นักศึกษาทราบว่า สิ่งของใดที่อนุญาตให้นำเข้าห้องสอบ และสิ่งของใดที่ห้ามนำเข้าห้องสอบ
+        \item ให้นักศึกษาเขียนชื่อ - นามสกุล และรหัสประจำตัว ให้ชัดเจน
+        \item ก่อนเริ่มดำเนินการสอบให้กรรมการคุมสอบประกาศในห้องสอบให้นักศึกษาทราบเกี่ยวกับชื่อกระบวนวิชาที่จัดสอบ
+        \item ให้นักศึกษาปฏิบัติตามคำชี้แจงของกรรมการคุมสอบอย่างเคร่งครัด
+        \item \textbf{การทุจริตหรือกระทำการใด ๆ ซึ่งเป็นการทุจริตในการสอบ เป็นความผิดวินัยร้ายแรง}
+        \item \textbf{การทุจริตหรือกระทำการใด ๆ ซึ่งเป็นการทุจริตในการสอบ จะได้รับการพิจารณาให้อักษรลำดับขั้น F หรือ U}
+        \item ให้ปฏิบัติตามข้อบังคับมหาวิทยาลัยเชียงใหม่ ว่าด้วยการสอบของนักศึกษา พ.ศ. 2554 อย่างเคร่งครัด
+    \end{enumerate}
+
+    \vspace{1cm}
+    \begin{center}
+        \textbf{ฉันได้อ่านคำชี้แจงในการทำข้อสอบด้วยความเข้าใจแล้ว}
+    \end{center}
+    \vspace{1cm}
+    \hfill
+    \begin{minipage}[t]{0.4\linewidth}
+        \centering
+        \rule{\linewidth}{0.4pt} \\
+        \vspace{0.2cm}
+        Signature
+    \end{minipage}
+    
+    \AMCcleardoublepage
+
+    % =========================================================
+    % 2. QUESTIONS SECTION
+    % =========================================================
+    % \vspace{0.5cm}
+    % \hrule
+    % \vspace{0.2cm}
+
+    \setlength{\columnsep}{.8cm}
+    \begin{multicols}{2}
+        \insertgroup{selected}
+        % \insertgroup[96]{selected}
+        % \insertgroup{hard}
+    \end{multicols}
+
+    \cleardoublepage
+
+    % =========================================================
+    % 3. ANSWER SHEET SECTION
+    % =========================================================
+    \AMCformBegin
+  
+    \begin{center} \bf \LARGE ANSWER SHEET \end{center}
+    
+    % Added Course Info to Answer Sheet Header automatically
+    \begin{center}
+        \textbf{Course:} \CourseCode \quad \textbf{Section:} \CourseSection \\
+     \textbf{Date:}\ExamDate \quad \textbf{Time:} \ExamTime
+    \end{center}
+  
+    \begin{center}
+    \fbox{%
+        \begin{minipage}{0.95\linewidth}
+            \centering
+            \textbf{Instructions / คำชี้แจง:}\\
+            Use Pen or Pencil (2B). Fill the box completely.\\
+            ใช้ปากกาหรือดินสอ (2B) กรอกคำตอบให้เต็มช่อง
+            \vspace{1.5ex}
+
+            \begin{tabular}{c c}
+                \textbf{Valid (ใช้ได้)} & \textbf{Invalid (ใช้ไม่ได้)} \\
+                % Fixed Valid Circle
+                \begin{tikzpicture}[baseline=-0.5ex]
+                    \draw (0,0) circle (0.2);
+                    \fill (0,0) circle (0.2);
+                \end{tikzpicture} 
+                &
+                % Fixed Invalid Circle with X
+                \begin{tikzpicture}[baseline=-0.5ex]
+                    \draw (0,0) circle (0.2);
+                    \draw[line width=0.6pt] (-0.15,0.15) -- (0.15,-0.15);
+                    \draw[line width=0.6pt] (-0.15,-0.15) -- (0.15,0.15);
+                \end{tikzpicture}
+            \end{tabular}
+        \end{minipage}%
+    }
+    \end{center}
+    \vspace{0.2cm}
+
+    % Name Field (Grading Area)
+    \begin{center}
+        \namefield{\fbox{
+            \begin{minipage}{\linewidth}
+                \vspace{0.2cm}
+                % \hspace{0.2cm}
+                \noindent
+                ชื่อ \dotfill นามสกุล \dotfill รหัส: \dotfill
+                \vspace{0.2cm}
+            \end{minipage}
+        }}
+
+        \vspace{0.5cm}
+        \textbf{Student ID (ฝนรหัสนักศึกษา)} \\
+        \vspace{0.1cm}
+        \AMCcode{id}{9}
+    \end{center}
+  
+    \vspace{0.1cm}
+    \hrule
+
+    \setlength{\columnsep}{0.5cm}
+    \begin{multicols}{3} 
+        \AMCform
+    \end{multicols}
+
+} 
+
+\end{document}

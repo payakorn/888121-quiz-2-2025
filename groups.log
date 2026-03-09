@@ -1,0 +1,1505 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.2.22)  3 MAR 2026 15:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**groups.tex
+(./groups.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
+\g__graphics_track_int=\count191
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count192
+\g__pdf_backend_annotation_int=\count193
+\g__pdf_backend_link_int=\count194
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count195
+\l__fontspec_language_int=\count196
+\l__fontspec_strnum_int=\count197
+\l__fontspec_tmp_int=\count198
+\l__fontspec_tmpa_int=\count199
+\l__fontspec_tmpb_int=\count266
+\l__fontspec_tmpc_int=\count267
+\l__fontspec_em_int=\count268
+\l__fontspec_emdef_int=\count269
+\l__fontspec_strong_int=\count270
+\l__fontspec_strongdef_int=\count271
+\l__fontspec_tmpa_dim=\dimen141
+\l__fontspec_tmpb_dim=\dimen142
+\l__fontspec_tmpc_dim=\dimen143
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+Package: xltxtra 2018/12/31 v0.7 Improvements for the "XeLaTeX" format
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
+ts
+\subsupersep=\dimen144
+)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+)
+\xl@everylogo=\toks18
+\xl@@everylogo=\toks19
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\l__xetex_show_hyphens_wrapping_box=\box52
+\l__xetex_show_hyphens_temp_box=\box53
+\l__xetex_show_hyphens_final_box=\box54
+\g__xetex_show_hyphens_word_box=\box55
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen147
+\pgfutil@tempdimb=\dimen148
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box56
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered
+.code.tex
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen149
+\pgf@y=\dimen150
+\pgf@xa=\dimen151
+\pgf@ya=\dimen152
+\pgf@xb=\dimen153
+\pgf@yb=\dimen154
+\pgf@xc=\dimen155
+\pgf@yc=\dimen156
+\pgf@xd=\dimen157
+\pgf@yd=\dimen158
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count272
+\c@pgf@countb=\count273
+\c@pgf@countc=\count274
+\c@pgf@countd=\count275
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+\pgf@sys@id@count=\count276
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)
+\pgfsys@objnum=\count277
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count278
+\pgfsyssoftpath@bigbuffer@items=\count279
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen159
+\pgfmath@count=\count280
+\pgfmath@box=\box57
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count281
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen160
+\pgf@picmaxx=\dimen161
+\pgf@picminy=\dimen162
+\pgf@picmaxy=\dimen163
+\pgf@pathminx=\dimen164
+\pgf@pathmaxx=\dimen165
+\pgf@pathminy=\dimen166
+\pgf@pathmaxy=\dimen167
+\pgf@xx=\dimen168
+\pgf@xy=\dimen169
+\pgf@yx=\dimen170
+\pgf@yy=\dimen171
+\pgf@zx=\dimen172
+\pgf@zy=\dimen173
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen174
+\pgf@path@lasty=\dimen175
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen176
+\pgf@shorten@start@additional=\dimen177
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box58
+\pgf@hbox=\box59
+\pgf@layerbox@main=\box60
+\pgf@picture@serial@count=\count282
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen178
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen179
+\pgf@pt@y=\dimen180
+\pgf@pt@temp=\dimen181
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen182
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen183
+\pgf@sys@shading@range@num=\count283
+\pgf@shadingcount=\count284
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box61
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box62
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen184
+\pgf@nodesepend=\dimen185
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen186
+\pgffor@skip=\dimen187
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count285
+\pgfplotmarksize=\dimen188
+)
+\tikz@lastx=\dimen189
+\tikz@lasty=\dimen190
+\tikz@lastxsaved=\dimen191
+\tikz@lastysaved=\dimen192
+\tikz@lastmovetox=\dimen193
+\tikz@lastmovetoy=\dimen194
+\tikzleveldistance=\dimen195
+\tikzsiblingdistance=\dimen196
+\tikz@figbox=\box63
+\tikz@figbox@bg=\box64
+\tikz@tempbox=\box65
+\tikz@tempbox@bg=\box66
+\tikztreelevel=\count286
+\tikznumberofchildren=\count287
+\tikznumberofcurrentchild=\count288
+\tikz@fig@count=\count289
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count290
+\pgfmatrixcurrentcolumn=\count291
+\pgf@matrix@numberofcolumns=\count292
+)
+\tikz@expandcount=\count293
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count294
+\mult@box=\box67
+\multicol@leftmargin=\dimen197
+\c@unbalance=\count295
+\c@collectmore=\count296
+\doublecol@number=\count297
+\multicoltolerance=\count298
+\multicolpretolerance=\count299
+\full@width=\dimen198
+\page@free=\dimen199
+\premulticols=\dimen256
+\postmulticols=\dimen257
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box68
+\last@line=\box69
+\mc@boxedresult=\box70
+\maxbalancingoverflow=\dimen258
+\mult@rightbox=\box71
+\mult@grightbox=\box72
+\mult@firstbox=\box73
+\mult@gfirstbox=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\c@minrows=\count300
+\c@columnbadness=\count301
+\c@finalcolumnbadness=\count302
+\last@try=\dimen259
+\multicolovershoot=\dimen260
+\multicolundershoot=\dimen261
+\mult@nat@firstbox=\box111
+\colbreak@box=\box112
+\mc@col@check@num=\count303
+)
+
+Package fontspec Info: Font family 'THSarabunNew(0)' created for font
+(fontspec)             'THSarabunNew' with options [Ligatures=TeX,Path =
+(fontspec)             ./THSarabunNew/,Extension = .ttf,UprightFont =
+(fontspec)             *,BoldFont = * Bold,ItalicFont = *
+(fontspec)             Italic,BoldItalicFont = * BoldItalic,Scale = 1.5].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1.5]"[./THSarabunNew/THSarabunNew.ttf]/OT:script=l
+atn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1.5]"[./THSarabunNew/THSarabunNew
+(fontspec)             Bold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1.5]"[./THSarabunNew/THSarabunNew
+(fontspec)             Italic.ttf]/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1.5]"[./THSarabunNew/THSarabunNew
+(fontspec)             BoldItalic.ttf]/OT:script=latn;language=dflt;mapping=tex
+-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
+(Font)              scaled to size 15.0pt on input line 20.
+
+(/usr/share/texmf/tex/latex/AMC/automultiplechoice.sty
+AMC version: 2025/04/17 v1.7.0 r:ec7413fa
+Package: automultiplechoice 2025/04/17 v1.7.0 r:ec7413fa
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip52
+\f@nch@O@elh=\skip53
+\f@nch@O@erh=\skip54
+\f@nch@O@olh=\skip55
+\f@nch@O@orh=\skip56
+\f@nch@O@elf=\skip57
+\f@nch@O@erf=\skip58
+\f@nch@O@olf=\skip59
+\f@nch@O@orf=\skip60
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks32
+\XKV@tempa@toks=\toks33
+)
+\XKV@depth=\count304
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count305
+\rotFPtop=\skip61
+\rotFPbot=\skip62
+\rot@float@box=\box113
+\rot@mess@toks=\toks34
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box114
+\shadowsize=\dimen262
+\@Sbox=\box115
+\do@VerbBox=\toks35
+\the@fancyput=\toks36
+\this@fancyput=\toks37
+\EndVerbatimTokens=\toks38
+\Verbatim@Outfile=\write4
+\Verbatim@Infile=\read3
+) (/usr/share/texlive/texmf-dist/tex/latex/csvsimple/csvsimple.sty
+Package: csvsimple 2024/01/19 v2.6.0 LaTeX CSV file processing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/csvsimple/csvsimple-legacy.sty
+Package: csvsimple-legacy 2024/01/19 version 2.6.0 LaTeX2e CSV file processing
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count306
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\csv@file=\read4
+\c@csvinputline=\count307
+\c@csvrow=\count308
+\c@csvcol=\count309
+\csv@out=\write5
+)
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks39
+)
+\AMC@logfile=\write6
+\openout6 = `groups.amc'.
+
+\AMCload@counter=\count310
+\AMCid@quest=\count311
+\AMCid@check=\count312
+\AMCid@etud=\count313
+\AMCid@etudstart=\count314
+\AMCid@etudfin=\count315
+\AMCnum@copies=\count316
+\AMCformVSpace=\dimen263
+\AMCformHSpace=\dimen264
+\AMCinterIrep=\dimen265
+\AMCinterBrep=\dimen266
+\AMCinterIquest=\dimen267
+\AMCinterBquest=\dimen268
+\AMCpostNquest=\dimen269
+\AMCpostOquest=\dimen270
+\AMCids@width=\dimen271
+\AMCids@height=\dimen272
+\AMC@SR=\count317
+\AMC@SR@count=\count318
+\AMC@SRnum=\count319
+\AMC@sti=\count320
+\AMC@stil=\count321
+\AMCsw@p@=\toks40
+\AMC@numerotation=\count322
+\AMC@smashbox=\box116
+\AMC@smashboxheight=\dimen273
+\c@AMC@ncase=\count323
+\AMC@boxedrule=\skip63
+\AMC@crossrule=\skip64
+\AMC@boxeddown=\skip65
+\AMC@boxedwidth=\skip66
+\AMC@boxedheight=\skip67
+\AMC@oval@radius=\skip68
+\AMC@outside@sep=\skip69
+\AMC@CBtaille=\skip70
+\AMCbin@sequence=\toks41
+\AMCbin@number=\count324
+\AMCbin@digit=\count325
+\AMCbin@id=\count326
+\AMCbin@did=\count327
+\AMCbin@ndigits=\count328
+\AMCbin@hsep=\dimen274
+\AMCtok@k=\count329
+\AMCtok@max=\count330
+\AMCtok@size=\count331
+\AMC@imax=\count332
+\AMCtok@ik=\count333
+\AMCloop@k=\count334
+\AMCrep@count=\count335
+\AMCrep@nn=\count336
+\AMCrep@nnmax=\count337
+\reponse@cxcix=\toks42
+\reponse@cxcviii=\toks43
+\reponse@cxcvii=\toks44
+\reponse@cxcvi=\toks45
+\reponse@cxcv=\toks46
+\reponse@cxciv=\toks47
+\reponse@cxciii=\toks48
+\reponse@cxcii=\toks49
+\reponse@cxci=\toks50
+\reponse@cxc=\toks51
+\reponse@clxxxix=\toks52
+\reponse@clxxxviii=\toks53
+\reponse@clxxxvii=\toks54
+\reponse@clxxxvi=\toks55
+\reponse@clxxxv=\toks56
+\reponse@clxxxiv=\toks57
+\reponse@clxxxiii=\toks58
+\reponse@clxxxii=\toks59
+\reponse@clxxxi=\toks60
+\reponse@clxxx=\toks61
+\reponse@clxxix=\toks62
+\reponse@clxxviii=\toks63
+\reponse@clxxvii=\toks64
+\reponse@clxxvi=\toks65
+\reponse@clxxv=\toks66
+\reponse@clxxiv=\toks67
+\reponse@clxxiii=\toks68
+\reponse@clxxii=\toks69
+\reponse@clxxi=\toks70
+\reponse@clxx=\toks71
+\reponse@clxix=\toks72
+\reponse@clxviii=\toks73
+\reponse@clxvii=\toks74
+\reponse@clxvi=\toks75
+\reponse@clxv=\toks76
+\reponse@clxiv=\toks77
+\reponse@clxiii=\toks78
+\reponse@clxii=\toks79
+\reponse@clxi=\toks80
+\reponse@clx=\toks81
+\reponse@clix=\toks82
+\reponse@clviii=\toks83
+\reponse@clvii=\toks84
+\reponse@clvi=\toks85
+\reponse@clv=\toks86
+\reponse@cliv=\toks87
+\reponse@cliii=\toks88
+\reponse@clii=\toks89
+\reponse@cli=\toks90
+\reponse@cl=\toks91
+\reponse@cxlix=\toks92
+\reponse@cxlviii=\toks93
+\reponse@cxlvii=\toks94
+\reponse@cxlvi=\toks95
+\reponse@cxlv=\toks96
+\reponse@cxliv=\toks97
+\reponse@cxliii=\toks98
+\reponse@cxlii=\toks99
+\reponse@cxli=\toks100
+\reponse@cxl=\toks101
+\reponse@cxxxix=\toks102
+\reponse@cxxxviii=\toks103
+\reponse@cxxxvii=\toks104
+\reponse@cxxxvi=\toks105
+\reponse@cxxxv=\toks106
+\reponse@cxxxiv=\toks107
+\reponse@cxxxiii=\toks108
+\reponse@cxxxii=\toks109
+\reponse@cxxxi=\toks110
+\reponse@cxxx=\toks111
+\reponse@cxxix=\toks112
+\reponse@cxxviii=\toks113
+\reponse@cxxvii=\toks114
+\reponse@cxxvi=\toks115
+\reponse@cxxv=\toks116
+\reponse@cxxiv=\toks117
+\reponse@cxxiii=\toks118
+\reponse@cxxii=\toks119
+\reponse@cxxi=\toks120
+\reponse@cxx=\toks121
+\reponse@cxix=\toks122
+\reponse@cxviii=\toks123
+\reponse@cxvii=\toks124
+\reponse@cxvi=\toks125
+\reponse@cxv=\toks126
+\reponse@cxiv=\toks127
+\reponse@cxiii=\toks128
+\reponse@cxii=\toks129
+\reponse@cxi=\toks130
+\reponse@cx=\toks131
+\reponse@cix=\toks132
+\reponse@cviii=\toks133
+\reponse@cvii=\toks134
+\reponse@cvi=\toks135
+\reponse@cv=\toks136
+\reponse@civ=\toks137
+\reponse@ciii=\toks138
+\reponse@cii=\toks139
+\reponse@ci=\toks140
+\reponse@c=\toks141
+\reponse@xcix=\toks142
+\reponse@xcviii=\toks143
+\reponse@xcvii=\toks144
+\reponse@xcvi=\toks145
+\reponse@xcv=\toks146
+\reponse@xciv=\toks147
+\reponse@xciii=\toks148
+\reponse@xcii=\toks149
+\reponse@xci=\toks150
+\reponse@xc=\toks151
+\reponse@lxxxix=\toks152
+\reponse@lxxxviii=\toks153
+\reponse@lxxxvii=\toks154
+\reponse@lxxxvi=\toks155
+\reponse@lxxxv=\toks156
+\reponse@lxxxiv=\toks157
+\reponse@lxxxiii=\toks158
+\reponse@lxxxii=\toks159
+\reponse@lxxxi=\toks160
+\reponse@lxxx=\toks161
+\reponse@lxxix=\toks162
+\reponse@lxxviii=\toks163
+\reponse@lxxvii=\toks164
+\reponse@lxxvi=\toks165
+\reponse@lxxv=\toks166
+\reponse@lxxiv=\toks167
+\reponse@lxxiii=\toks168
+\reponse@lxxii=\toks169
+\reponse@lxxi=\toks170
+\reponse@lxx=\toks171
+\reponse@lxix=\toks172
+\reponse@lxviii=\toks173
+\reponse@lxvii=\toks174
+\reponse@lxvi=\toks175
+\reponse@lxv=\toks176
+\reponse@lxiv=\toks177
+\reponse@lxiii=\toks178
+\reponse@lxii=\toks179
+\reponse@lxi=\toks180
+\reponse@lx=\toks181
+\reponse@lix=\toks182
+\reponse@lviii=\toks183
+\reponse@lvii=\toks184
+\reponse@lvi=\toks185
+\reponse@lv=\toks186
+\reponse@liv=\toks187
+\reponse@liii=\toks188
+\reponse@lii=\toks189
+\reponse@li=\toks190
+\reponse@l=\toks191
+\reponse@xlix=\toks192
+\reponse@xlviii=\toks193
+\reponse@xlvii=\toks194
+\reponse@xlvi=\toks195
+\reponse@xlv=\toks196
+\reponse@xliv=\toks197
+\reponse@xliii=\toks198
+\reponse@xlii=\toks199
+\reponse@xli=\toks200
+\reponse@xl=\toks201
+\reponse@xxxix=\toks202
+\reponse@xxxviii=\toks203
+\reponse@xxxvii=\toks204
+\reponse@xxxvi=\toks205
+\reponse@xxxv=\toks206
+\reponse@xxxiv=\toks207
+\reponse@xxxiii=\toks208
+\reponse@xxxii=\toks209
+\reponse@xxxi=\toks210
+\reponse@xxx=\toks211
+\reponse@xxix=\toks212
+\reponse@xxviii=\toks213
+\reponse@xxvii=\toks214
+\reponse@xxvi=\toks215
+\reponse@xxv=\toks216
+\reponse@xxiv=\toks217
+\reponse@xxiii=\toks218
+\reponse@xxii=\toks219
+\reponse@xxi=\toks220
+\reponse@xx=\toks221
+\reponse@xix=\toks222
+\reponse@xviii=\toks223
+\reponse@xvii=\toks224
+\reponse@xvi=\toks225
+\reponse@xv=\toks226
+\reponse@xiv=\toks227
+\reponse@xiii=\toks228
+\reponse@xii=\toks229
+\reponse@xi=\toks230
+\reponse@x=\toks231
+\reponse@ix=\toks232
+\reponse@viii=\toks233
+\reponse@vii=\toks234
+\reponse@vi=\toks235
+\reponse@v=\toks236
+\reponse@iv=\toks237
+\reponse@iii=\toks238
+\reponse@ii=\toks239
+\reponse@i=\toks240
+\AMCnum@questions=\count338
+\AMCrep@@count=\count339
+\amc_memory_elts_count=\count340
+\c@AMC@specsi=\count341
+\AMC@coli=\count342
+\AMC@tf@ncols=\count343
+\AMCformTH=\dimen275
+\AMC@tfcolw=\dimen276
+\AMC@tfaw=\dimen277
+\AMC@tfbox=\box117
+\AMChorizAnswerSep=\skip71
+\AMChorizBoxSep=\skip72
+\AMC@mn@test=\skip73
+\AMC@mn@sep=\skip74
+\AMC@mn@leftmargin=\skip75
+\AMC@mn@rightmargin=\skip76
+\AMC@sz@width=\skip77
+\AMC@sz@height=\skip78
+\AMC@sz@depth=\skip79
+\AMC@sza@width=\skip80
+\AMC@sza@height=\skip81
+\AMC@sza@depth=\skip82
+\c@AMCquestionaff=\count344
+\ouverte@vs=\dimen278
+\AMC@chiffres=\count345
+\AMCcodeHspace=\dimen279
+\AMCcodeVspace=\dimen280
+\amc_code_digit_n_int=\count346
+\amc_multi_count_int=\count347
+\amc_num_exponent_int=\count348
+\amc_todigits_int=\count349
+\AMCnumeric@Hspace=\dimen281
+\AMCnumeric@Vspace=\dimen282
+\amc_num_ndigits_int=\count350
+\amc_num_decd_int=\count351
+\amc_num_expo_int=\count352
+\amc_num_base_int=\count353
+\amc_vheadunitindex_int=\count354
+\amc_num_exact_int=\count355
+\amc_num_approx_int=\count356
+\amc_num_digit_value_int=\count357
+\amc_num_first_digit_int=\count358
+\amc_num_digit_int=\count359
+\amc_num_sign_int=\count360
+\amc_num_expo_sign_int=\count361
+\amc_num_correct_expo_int=\count362
+\AMCopen@Hspace=\dimen283
+\AMCopen@LineHeight=\dimen284
+\AMCopen@Lines=\count363
+\AMCopen@boxmargin=\dimen285
+\AMCopen@boxframerule=\dimen286
+\AMCopen@framerule=\dimen287
+\AMC@addpages=\count364
+
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
+
+
+Package etex Warning: Extended allocation already in use.
+(etex)                etex.sty code will not be used.
+(etex)                To force etex package to load, add
+(etex)                \RequirePackage{etex}
+(etex)                at the start of the document.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count365
+\Gm@cntv=\count366
+\c@Gm@tempcnt=\count367
+\Gm@bindingoffset=\dimen288
+\Gm@wd@mp=\dimen289
+\Gm@odd@mp=\dimen290
+\Gm@even@mp=\dimen291
+\Gm@layoutwidth=\dimen292
+\Gm@layoutheight=\dimen293
+\Gm@layouthoffset=\dimen294
+\Gm@layoutvoffset=\dimen295
+\Gm@dimlist=\toks241
+))
+(/usr/share/texlive/texmf-dist/tex/latex/totcount/totcount.sty
+Package: totcount 2011/01/25 v1.2 package for gettingthe total value of LaTeX c
+ounters
+)
+\c@AMCquestionaff@totc=\count368
+ (./quizz.tex
+\quizz@k=\count369
+\AMCquizz@j=\count370
+\quizz@i=\toks242
+\quizz@ii=\toks243
+\quizz@iii=\toks244
+\quizz@iv=\toks245
+\quizz@v=\toks246
+\quizz@vi=\toks247
+\quizz@vii=\toks248
+\quizz@viii=\toks249
+\quizz@ix=\toks250
+\quizz@x=\toks251
+\quizz@xi=\toks252
+\quizz@xii=\toks253
+\quizz@xiii=\toks254
+\quizz@xiv=\toks255
+\quizz@xv=\toks256
+\quizz@xvi=\toks257
+\quizz@xvii=\toks258
+\quizz@xviii=\toks259
+\quizz@xix=\toks260
+\quizz@xx=\toks261
+\quizz@xxi=\toks262
+\quizz@xxii=\toks263
+\quizz@xxiii=\toks264
+\quizz@xxiv=\toks265
+\quizz@xxv=\toks266
+\quizz@xxvi=\toks267
+\quizz@xxvii=\toks268
+\quizz@xxviii=\toks269
+\quizz@xxix=\toks270
+\quizz@xxx=\toks271
+\quizz@xxxi=\toks272
+\quizz@xxxii=\toks273
+\quizz@xxxiii=\toks274
+\quizz@xxxiv=\toks275
+\quizz@xxxv=\toks276
+\quizz@xxxvi=\toks277
+\quizz@xxxvii=\toks278
+\quizz@xxxviii=\toks279
+\quizz@xxxix=\toks280
+\quizz@xl=\toks281
+\quizz@xli=\toks282
+\quizz@xlii=\toks283
+\quizz@xliii=\toks284
+\quizz@xliv=\toks285
+\quizz@xlv=\toks286
+\quizz@xlvi=\toks287
+\quizz@xlvii=\toks288
+\quizz@xlviii=\toks289
+\quizz@xlix=\toks290
+\quizz@l=\toks291
+\quizz@li=\toks292
+\quizz@lii=\toks293
+\quizz@liii=\toks294
+\quizz@liv=\toks295
+\quizz@lv=\toks296
+\quizz@lvi=\toks297
+\quizz@lvii=\toks298
+\quizz@lviii=\toks299
+\quizz@lix=\toks300
+\quizz@lx=\toks301
+\quizz@lxi=\toks302
+\quizz@lxii=\toks303
+\quizz@lxiii=\toks304
+\quizz@lxiv=\toks305
+\quizz@lxv=\toks306
+\quizz@lxvi=\toks307
+\quizz@lxvii=\toks308
+\quizz@lxviii=\toks309
+\quizz@lxix=\toks310
+\quizz@lxx=\toks311
+\quizz@lxxi=\toks312
+\quizz@lxxii=\toks313
+\quizz@lxxiii=\toks314
+\quizz@lxxiv=\toks315
+\quizz@lxxv=\toks316
+\final@k=\count371
+\AMCfinal@j=\count372
+\final@i=\toks317
+\final@ii=\toks318
+\final@iii=\toks319
+\final@iv=\toks320
+\final@v=\toks321
+\final@vi=\toks322
+\final@vii=\toks323
+\final@viii=\toks324
+\final@ix=\toks325
+\final@x=\toks326
+\final@xi=\toks327
+\final@xii=\toks328
+\final@xiii=\toks329
+\final@xiv=\toks330
+\final@xv=\toks331
+\final@xvi=\toks332
+\final@xvii=\toks333
+\final@xviii=\toks334
+\final@xix=\toks335
+\final@xx=\toks336
+\final@xxi=\toks337
+\final@xxii=\toks338
+\final@xxiii=\toks339
+\final@xxiv=\toks340
+\final@xxv=\toks341
+\final@xxvi=\toks342
+\final@xxvii=\toks343
+\final@xxviii=\toks344
+\final@xxix=\toks345
+\final@xxx=\toks346
+\final@xxxi=\toks347
+\final@xxxii=\toks348
+\final@xxxiii=\toks349
+\final@xxxiv=\toks350
+\final@xxxv=\toks351
+\final@xxxvi=\toks352
+\final@xxxvii=\toks353
+\final@xxxviii=\toks354
+\final@xxxix=\toks355
+\final@xl=\toks356
+\final@xli=\toks357
+\final@xlii=\toks358
+\final@xliii=\toks359
+\final@xliv=\toks360
+\final@xlv=\toks361
+)
+\selected@k=\count373
+\AMCselected@j=\count374
+\selected@i=\toks362
+\selected@ii=\toks363
+\selected@iii=\toks364
+\selected@iv=\toks365
+\selected@v=\toks366
+\selected@vi=\toks367
+\selected@vii=\toks368
+\selected@viii=\toks369
+\selected@ix=\toks370
+\selected@x=\toks371
+\selected@xi=\toks372
+\selected@xii=\toks373
+\selected@xiii=\toks374
+\selected@xiv=\toks375
+\selected@xv=\toks376
+\selected@xvi=\toks377
+\selected@xvii=\toks378
+\selected@xviii=\toks379
+\selected@xix=\toks380
+\selected@xx=\toks381
+\selected@xxi=\toks382
+\selected@xxii=\toks383
+\selected@xxiii=\toks384
+\selected@xxiv=\toks385
+\selected@xxv=\toks386
+\selected@xxvi=\toks387
+\selected@xxvii=\toks388
+\selected@xxviii=\toks389
+\selected@xxix=\toks390
+\selected@xxx=\toks391
+\selected@xxxi=\toks392
+\selected@xxxii=\toks393
+\selected@xxxiii=\toks394
+\selected@xxxiv=\toks395
+\selected@xxxv=\toks396
+\selected@xxxvi=\toks397
+\selected@xxxvii=\toks398
+\selected@xxxviii=\toks399
+\selected@xxxix=\toks400
+\selected@xl=\toks401
+\selected@xli=\toks402
+\selected@xlii=\toks403
+\selected@xliii=\toks404
+\selected@xliv=\toks405
+\selected@xlv=\toks406
+\selected@xlvi=\toks407
+\selected@xlvii=\toks408
+\selected@xlviii=\toks409
+\selected@xlix=\toks410
+\selected@l=\toks411
+\selected@li=\toks412
+\selected@lii=\toks413
+\selected@liii=\toks414
+\selected@liv=\toks415
+\selected@lv=\toks416
+\selected@lvi=\toks417
+\selected@lvii=\toks418
+\selected@lviii=\toks419
+\selected@lix=\toks420
+\selected@lx=\toks421
+\selected@lxi=\toks422
+\selected@lxii=\toks423
+\selected@lxiii=\toks424
+\selected@lxiv=\toks425
+\selected@lxv=\toks426
+\selected@lxvi=\toks427
+\selected@lxvii=\toks428
+\selected@lxviii=\toks429
+\selected@lxix=\toks430
+\selected@lxx=\toks431
+\selected@lxxi=\toks432
+\selected@lxxii=\toks433
+\selected@lxxiii=\toks434
+\selected@lxxiv=\toks435
+\selected@lxxv=\toks436
+
+(./groups.aux)
+\openout1 = `groups.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
+6.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 66.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 66.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 66.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 66.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 66.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 66.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 66.
+LaTeX Font Info:    Redeclaring math accent \check on input line 66.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 66.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 66.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 66.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/THSarabunNew(0)/m/n on input line 66
+.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/THSarabunNew(0)/m/n on input line 6
+6.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/THSarabunNew(0)/m/n --> TU/THSarabunNew(0)/m/n on in
+put line 66.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/THSarabunNew(0)/m/it on input line 
+66.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/THSarabunNew(0)/b/n on input line 6
+6.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 66.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 66.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/THSarabunNew(0)/m/n --> TU/THSarabunNew(0)/b/n on in
+put line 66.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/THSarabunNew(0)/b/it on input line
+ 66.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 66.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 66.
+\AMC@ovalbox@R=\box118
+\AMC@ovalbox@RF=\box119
+\AMC@ovalbox@=\box120
+\AMC@ovalbox@F=\box121
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(99.58464pt, 674.33032pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-38.12675pt
+* \headheight=56.9055pt
+* \headsep=8.5359pt
+* \topskip=10.0pt
+* \footskip=28.45274pt
+* \marginparwidth=111.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+AMC:copies:total=5
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
+(Font)              scaled to size 15.0pt on input line 232.
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
+(Font)              scaled to size 21.59999pt on input line 232.
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
+(Font)              scaled to size 10.5pt on input line 232.
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
+(Font)              scaled to size 7.5pt on input line 232.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 232.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 232.
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 Public Safety and Security (ความ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 ทำให้ ระบบ สามารถ วิเคราะห์ ข้อมูล จาก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10]
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
+(Font)              scaled to size 25.92pt on input line 232.
+ [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 Public Safety and Security (ความ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 ทำให้ ระบบ สามารถ วิเคราะห์ ข้อมูล จาก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 Public Safety and Security (ความ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 ทำให้ ระบบ สามารถ วิเคราะห์ ข้อมูล จาก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 ทำให้ ระบบ สามารถ วิเคราะห์ ข้อมูล จาก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 Public Safety and Security (ความ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+File: logo-ICDI.png Graphic file (type bmp)
+<logo-ICDI.png>
+
+Overfull \hbox (28.28pt too wide) in paragraph at lines 232--232
+[][] 
+ []
+
+[1
+
+] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 Public Safety and Security (ความ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 การ เดิน ทาง และ ระบบ ขนส่ง ที่ สะดวก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 การ แชร์ ข้อมูล ระหว่าง หลาย องค์กร ใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\TU/THSarabunNew(0)/m/n/10 ทำให้ ระบบ สามารถ วิเคราะห์ ข้อมูล จาก
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+
+ []
+
+[3
+
+] [4] [5] [6] [7] [8] [9] [10] [11
+
+] [12] 
+AMC:copies:add=1
+(./groups.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 18264 strings out of 476878
+ 408692 string characters out of 5805249
+ 2145627 words of memory out of 5000000
+ 39886 multiletter control sequences out of 15000+600000
+ 558488 words of font info for 52 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 87i,23n,93p,417b,992s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on groups.pdf (60 pages).
