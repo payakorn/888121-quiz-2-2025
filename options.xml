@@ -11,7 +11,7 @@ Regards.</email_text>
   </annotatedemail>
   <annote_position>cases</annote_position>
   <annote_rtl></annote_rtl>
-  <assoc_code></assoc_code>
+  <assoc_code>id</assoc_code>
   <auto_capture_mode>0</auto_capture_mode>
   <build_dir>.</build_dir>
   <code_examen></code_examen>
